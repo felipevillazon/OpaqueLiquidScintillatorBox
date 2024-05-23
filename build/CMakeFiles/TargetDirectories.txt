@@ -1,0 +1,7 @@
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/OpaqueLSBox.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/edit_cache.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/rebuild_cache.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/list_install_components.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/install.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/install/local.dir
+/home/felipe/geant4/projects/BoxOpaqueLS/build/CMakeFiles/install/strip.dir
